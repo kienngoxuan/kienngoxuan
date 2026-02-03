@@ -1,15 +1,9 @@
-👋 Hi, I'm Ngo Xuan Kien  
-📚 I'm a second-year Data Science student at University of Science and Technology of Hanoi.
-🎯 Aspiring Data Scientist | Data Analyst | Passionate about transforming data into insights.  
-💻 Currently learning Python, SQL, Machine Learning, and Data Visualization.  
-🔍 Exploring areas like predictive modeling, big data, and analytics.  
+I’m a Junior AI Engineer focused on building and deploying practical AI systems, especially in NLP, speech processing, and retrieval-augmented generation (RAG). I have hands-on experience working across the full lifecycle of AI applications, from data preprocessing and model fine-tuning to deployment and system optimization.
 
-🛠️ Technologies & Tools:  
-- Programming: Python, R, SQL, Java, C/C++
-- Data Analysis: Pandas, NumPy, Matplotlib, Seaborn
-- Machine Learning: scikit-learn
-- Databases: MySQL, PostgreSQL  
-- Tools: Git, Jupyter, VSCode, PowerBI  
+My work includes developing speech and language solutions such as speaker diarization systems using transformer architectures, Vietnamese ASR pipelines using PhoWhisper, and wake-word detection systems. I have experience working with embedding models, clustering strategies, attention mechanisms, positional embeddings, and parameter-efficient fine-tuning techniques such as LoRA.
 
-🌱 Always open to learning new things and collaborating on data projects!
-🤖 I'm eager to learn and grow in areas like predictive modeling, data analytics, and big data technologies. 
+In generative AI, I have designed and implemented RAG pipelines using tools like RAGFlow, optimizing retrieval quality through chunking strategies, reranking, hybrid search, and evaluation frameworks including RAGAS, F1, ROUGE, and BLEU metrics. I have also worked on AI agent systems in real-world domains such as dermatology and legal document processing, integrating vector databases, graph databases, and automated workflows.
+
+From an engineering perspective, I am comfortable building scalable AI services using FastAPI, Redis, Docker, and streaming or socket-based communication pipelines. I have experience working with vector databases such as FAISS, Qdrant, and Chroma, as well as graph databases like Neo4j. I am currently expanding my skills in PostgreSQL, Kubernetes, and high-performance inference frameworks such as vLLM.
+
+I enjoy designing AI systems that are not only accurate but also production-ready, with strong attention to evaluation, latency optimization, and system reliability. I am particularly interested in applying AI to domains where automation and intelligent retrieval can significantly improve decision-making and user experience.
